@@ -5,7 +5,7 @@ import './App.css';
 import Header from './components/Header';
 
 function App() {
-  const name = "Alvo"
+  // const name = "Devs"
   return (
     <div className="App">
       {/* <header className="App-header">
@@ -22,8 +22,8 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <h1>Hello from Alvo</h1>
-	  <h2>Hello {name}</h2>
+      {/* <h1>Hello from Devs</h1>
+	  <h2>Hello {name}</h2> */}
     <Header />
     </div>
   );
