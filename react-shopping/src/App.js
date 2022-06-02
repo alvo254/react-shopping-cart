@@ -2,7 +2,7 @@
 //import React from 'react'; // using class
 import logo from './logo.svg';
 import './App.css';
-import Header from './componets/Header';
+import Header from './components/Header';
 
 function App() {
   const name = "Alvo"
